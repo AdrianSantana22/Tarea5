@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+  .container{
+	text-align: justify;
+	width: 350px;
+	background: #77c6e7bb;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border: 1px solid black;
+	border-color: black;
+	border-radius: 4px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif ;
+	color: rgb(0, 0, 0);
+  }
+  
+  h1 {
+	text-align: center;
+  }
+  
+  form {
+	max-width: 350px;
+	margin: 0 auto;
+  }
+  
+  label {
+	display: block;
+	margin-bottom: 5px;
+  }
+  
+  .genero{
+	width: 400px;
+	padding: 0px;
+	margin: auto;
+	margin-top: 10px;
+	border-radius: 4px;
+	font-family: "Time news roman";
+	color: rgb(0, 0, 0);
+	
+  }
+  .paises{
+	
+	padding: 0px;
+	margin: auto;
+	margin-top: 30px;
+  
+	
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="password"],
+  input[type="date"],
+  
+  
+  
+  
+  
+  textarea {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #d08787;
+	border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+	background-color: #2c62d6;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	text-align: center;
+	
+  }
+  
+  input[type="submit"]:hover {
+	background-color: #48814a;
+  
+  
+   
+  }
+  footer{
+		
+	color: rgb(0, 0, 0);
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: normal;
+  }
+  
+  
+  body{
+	background-image:url(fondo.png);
+	background-size:auto;
+  }
+  
+  footer{
+		  
+	color: rgb(224, 228, 230);
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: normal;
+  }
+  input[type="submit"] {
+	background-color: #2c62d6;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	text-align: center;
+	
+  }
+  
